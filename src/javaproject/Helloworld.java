@@ -2,7 +2,9 @@ package javaproject;
 
 public class Helloworld {
 	public static void main(String[] args) {
-		System.out.println("Hello world12345");
-		
+		for(int i = 0; i<3; i++) {
+			System.out.println("Hello world12345");
+		}
+
 	}
 }
