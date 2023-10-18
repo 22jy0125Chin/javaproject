@@ -6,5 +6,6 @@ public class Helloworld {
 			System.out.println("Hello world12345");
 		}
 		System.out.println("54321dlrow olleH");
+		System.out.println("ローカルをコミット→オリジンへとプッシュ");
 	}
 }
